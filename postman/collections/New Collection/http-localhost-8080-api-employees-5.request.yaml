@@ -1,0 +1,8 @@
+$kind: http-request
+name: http://localhost:8080/api/employees
+url: http://localhost:8080/api/employees
+method: POST
+body:
+  type: json
+  content: '{"firstName":"","lastName":"Doe","email":"wrong-email","department":"IT","designation":"Developer","salary":-1000}'
+order: 4434695278350347

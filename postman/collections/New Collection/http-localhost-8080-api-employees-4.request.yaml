@@ -1,0 +1,8 @@
+$kind: http-request
+name: http://localhost:8080/api/employees
+url: http://localhost:8080/api/employees
+method: GET
+body:
+  type: json
+  content: '{"firstName":"John","lastName":"Smith","email":"john.smith@example.com","department":"Engineering","designation":"Senior Software Engineer","salary":95000}'
+order: 4424335050887583
