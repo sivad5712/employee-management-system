@@ -109,4 +109,4 @@ com.example.employeemanagement
 
 ## Author
 
-Siva Sankeerth — built as part of Java Full Stack training.
+Siva Sankeerth .
