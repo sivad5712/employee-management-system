@@ -78,6 +78,35 @@ com.example.employeemanagement
 ├── dto
 └── exception
 
+## Screenshots
+
+### Create Employee — 201 Created
+![Create](screenshots/1_create_employee.png)
+
+### Get Active Employees — 200 OK
+![Get All](screenshots/2_get_employees.png)
+
+### Get Employee by ID — 200 OK
+![Get By ID](screenshots/3_get_by_id.png)
+
+### Update Employee — 200 OK
+![Update](screenshots/4_update_employee.png)
+
+### Deactivate Employee — 204 No Content
+![Deactivate](screenshots/5_deactivate_employee.png)
+
+### Inactive Employee Hidden — 200 OK
+![Inactive Hidden](screenshots/6_inactive_hidden.png)
+
+### Duplicate Email — 409 Conflict
+![Duplicate Email](screenshots/7_duplicate_email.png)
+
+### Validation Error — 400 Bad Request
+![Validation](screenshots/8_validation_error.png)
+
+### PostgreSQL Employees Table
+![Database](screenshots/9_postgres_table.png)
+
 ## Author
 
 Siva Sankeerth — built as part of Java Full Stack training.
